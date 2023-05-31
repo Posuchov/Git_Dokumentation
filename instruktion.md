@@ -119,15 +119,7 @@ git config user.name и git config user.email
 
 *git checkout master* - перемещает в главную ветку с именем master.
 
-
-
-
-
-
-
-
-
-
+# Синтаксис языка Markdown
 ## Выделение текста
 ## Списки
 ## Работа с изображениями
