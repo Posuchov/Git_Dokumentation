@@ -155,6 +155,11 @@ git config user.name и git config user.email
 
 
 ## Ссылки
+
+Изучите Git с помощью Bitbucket Cloud
+
+https://www.atlassian.com/ru/git/tutorials/learn-git-with-bitbucket-cloud
+
 Справочник по Markdown от Microsoft можно вызвать по ссылке:
 https://docs.microsoft.com/ru-ru/contibute/markdown-reference
 
@@ -165,6 +170,10 @@ https://habr.com/ru/articles/541258/
 Введение - О системе контроля версий
 
 https://git-scm.com/book/ru/v2/
+
+Интерактивное приложение "Изучаем ветвление Git"
+
+https://learngitbranching.js.org/?locale=ru_RU&demo=
 
 
 ## Работа с таблицами
