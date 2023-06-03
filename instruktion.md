@@ -187,6 +187,7 @@ https://git-scm.com/book/ru/v2/
 
 https://learngitbranching.js.org/?locale=ru_RU&demo=
 
+# Конфликт
 
 ## Работа с таблицами
 ## Цитаты
