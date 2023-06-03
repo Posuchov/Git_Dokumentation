@@ -155,6 +155,18 @@ git config user.name и git config user.email
 
 
 ## Ссылки
+Справочник по Markdown от Microsoft можно вызвать по ссылке:
+https://docs.microsoft.com/ru-ru/contibute/markdown-reference
+
+Git для новичков (часть 1)
+
+https://habr.com/ru/articles/541258/
+
+Введение - О системе контроля версий
+
+https://git-scm.com/book/ru/v2/
+
+
 ## Работа с таблицами
 ## Цитаты
 ## Заключение (выводы)
